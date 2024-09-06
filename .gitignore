@@ -1,3 +1,8 @@
 NHQ-NPG_kgraph/build
 NHQ-NPG_nsw/build
 NPG_kgraph/build
+sift1M/sift_query.fvecs
+sift1M/sift_learn.fvecs
+sift1M/sift_groundtruth.ivecs
+sift1M/sift_base.fvecs
+sift1M/sift_base_with_random_int_added.csv

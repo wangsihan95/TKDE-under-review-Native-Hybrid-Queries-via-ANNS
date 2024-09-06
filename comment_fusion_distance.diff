@@ -1,0 +1,13 @@
+diff --git a/NHQ-NPG_kgraph/src/index_graph.cpp b/NHQ-NPG_kgraph/src/index_graph.cpp
+index 454ba5e..fc976df 100755
+--- a/NHQ-NPG_kgraph/src/index_graph.cpp
++++ b/NHQ-NPG_kgraph/src/index_graph.cpp
+@@ -678,7 +678,7 @@ namespace efanna2e
+             cnt++;
+           }
+         }
+-        fusion_distance(djk, cnt);
++        // fusion_distance(djk, cnt);
+ 
+         tmp.push_back(Neighbor(j, dist, true));
+       }
